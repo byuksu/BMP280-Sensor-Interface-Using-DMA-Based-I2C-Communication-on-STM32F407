@@ -1,0 +1,7 @@
+../Src/bmp280.c:14:6:bmp280_read_calibration	16	static
+../Src/bmp280.c:30:10:bmp280_compensate_temp	32	static
+../Src/bmp280.c:39:6:delay_ms	24	static,ignoring_inline_asm
+../Src/bmp280.c:45:9:bmp280_read_id	16	static
+../Src/bmp280.c:51:6:bmp280_reset	16	static
+../Src/bmp280.c:58:6:bmp280_init	16	static
+../Src/bmp280.c:76:6:bmp280_read_raw_temp_press	24	static
